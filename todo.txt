@@ -1,0 +1,11 @@
+GOALS
+0) Figure out how in the goddamn to make GUI programs for whatever language I decide to use
+1) Be able to split Van Buren's big ol files into the smaller actual components
+  1a) Offsfet pain
+  1b) Add file formats
+  1c) Check to see if assets are already extracted
+2) CRT editting
+  2a) Gender
+  2b) Body type
+  2c) Error handling
+  2d) Stats
